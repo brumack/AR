@@ -364,6 +364,10 @@ video {
 	color: rgb(251, 252, 246, 0.3);
 }
 
+.flicker {
+	color: rgb(251, 252, 246, 0.2);
+}
+
 /* TOGETHER */
 
 #together {
